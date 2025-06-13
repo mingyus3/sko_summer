@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+#videos
+aligned/
+run13/*.mp4
+
+
+
+# Virtual environments
+.venv
+aligned/
+run13/*.mp4
