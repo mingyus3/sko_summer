@@ -1,0 +1,4 @@
+video,entry_frame,entry_time,sync_offset_sec,detection_method,position,confidence,area_ratio
+curvecam.mp4,4113,73.44584066555537,0.0,stable,right+middle,0.8458696603775024,0.084609375
+curvecam2.mp4,4166,74.392262,0.9464213344446364,stable,right+middle,0.9227963089942932,0.1233984375
+sidecam.mp4,4133,73.80298055212397,0.3571398865686035,stable,left+middle,0.6267824172973633,0.01300998263888889
