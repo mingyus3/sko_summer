@@ -1,0 +1,4 @@
+video,takeoff_frame,takeoff_time,landing_frame,landing_time,flight_time,sync_offset_sec,landing_type,takeoff_score,landing_score
+trimmed_sidecam.mp4,214,3.8214285714285716,279,4.982142857142857,1.1607142857142851,0.0,BOTH_FEET,1.0,1.0
+trimmed_curvecam.mp4,202,3.607142857142857,221,3.9464285714285716,0.3392857142857144,-1.0357142857142851,BOTH_FEET,1.0,1.0
+trimmed_curvecam2.mp4,262,4.678571428571429,281,5.017857142857143,0.3392857142857144,0.035714285714286476,BOTH_FEET,1.0,1.0

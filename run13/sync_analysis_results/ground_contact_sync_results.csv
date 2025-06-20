@@ -1,0 +1,4 @@
+video,contact_frame,contact_time,sync_offset_sec,contact_score,contact_type,contact_confidence
+trimmed_sidecam.mp4,206,3.6785714285714284,0.0,0.9,BOTH_FEET,0.8058185577392578
+trimmed_curvecam.mp4,195,3.482142857142857,-0.19642857142857117,1.0,LEFT_FOOT,0.646674394607544
+trimmed_curvecam2.mp4,247,4.410714285714286,0.7321428571428572,1.0,RIGHT_FOOT,0.5036191940307617

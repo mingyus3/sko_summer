@@ -1,0 +1,98 @@
+{
+  "trimmed_sidecam.mp4": {
+    "takeoff_event": {
+      "frame": 214,
+      "time": 3.8214285714285716,
+      "score": 1.0,
+      "analysis": {
+        "takeoff_detected": true,
+        "takeoff_score": 1.0,
+        "left_foot_airborne": true,
+        "right_foot_airborne": true,
+        "vertical_velocity": 1.964447021484375,
+        "confidence": 0.9787086844444275
+      }
+    },
+    "landing_event": {
+      "frame": 279,
+      "time": 4.982142857142857,
+      "score": 1.0,
+      "landing_type": "BOTH_FEET",
+      "analysis": {
+        "landing_detected": true,
+        "landing_score": 1.0,
+        "landing_type": "BOTH_FEET",
+        "left_foot_contact": true,
+        "right_foot_contact": true,
+        "downward_velocity": 10.97430419921875,
+        "confidence": 0.9913990795612335
+      }
+    },
+    "flight_time": 1.1607142857142851,
+    "sync_offset": 0.0
+  },
+  "trimmed_curvecam.mp4": {
+    "takeoff_event": {
+      "frame": 202,
+      "time": 3.607142857142857,
+      "score": 1.0,
+      "analysis": {
+        "takeoff_detected": true,
+        "takeoff_score": 1.0,
+        "left_foot_airborne": true,
+        "right_foot_airborne": true,
+        "vertical_velocity": 2.161468505859375,
+        "confidence": 0.9793160855770111
+      }
+    },
+    "landing_event": {
+      "frame": 221,
+      "time": 3.9464285714285716,
+      "score": 1.0,
+      "landing_type": "BOTH_FEET",
+      "analysis": {
+        "landing_detected": true,
+        "landing_score": 1.0,
+        "landing_type": "BOTH_FEET",
+        "left_foot_contact": true,
+        "right_foot_contact": true,
+        "downward_velocity": 0.0,
+        "confidence": 0.9968774020671844
+      }
+    },
+    "flight_time": 0.3392857142857144,
+    "sync_offset": -1.0357142857142851
+  },
+  "trimmed_curvecam2.mp4": {
+    "takeoff_event": {
+      "frame": 262,
+      "time": 4.678571428571429,
+      "score": 1.0,
+      "analysis": {
+        "takeoff_detected": true,
+        "takeoff_score": 1.0,
+        "left_foot_airborne": true,
+        "right_foot_airborne": true,
+        "vertical_velocity": 2.3377532958984375,
+        "confidence": 0.9879563748836517
+      }
+    },
+    "landing_event": {
+      "frame": 281,
+      "time": 5.017857142857143,
+      "score": 1.0,
+      "landing_type": "BOTH_FEET",
+      "analysis": {
+        "landing_detected": true,
+        "landing_score": 1.0,
+        "landing_type": "BOTH_FEET",
+        "left_foot_contact": true,
+        "right_foot_contact": true,
+        "downward_velocity": 0.0,
+        "confidence": 0.9817072153091431
+      }
+    },
+    "flight_time": 0.3392857142857144,
+    "sync_offset": 0.035714285714286476
+  }
+}

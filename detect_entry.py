@@ -336,7 +336,7 @@ def main():
         return
 
     print("[INFO] Loading YOLOv8-n model for universal sync detection…")
-    model = YOLO("yolov8n.pt")
+    model = YOLO("yolo11m-pose.pt")
 
     results = {}
     
